@@ -1,2 +1,2 @@
 # handwriting-recognition
-Built a handwritten text recognition system using CNNs and OpenCV to convert handwritten characters into digital text in real time.
+تطوير نظام للتعرف على النصوص المكتوبة بخط اليد باستخدام الشبكات العصبية الالتفافية (CNN) وOpenCV لتحويل الكتابة اليدوية إلى نص رقمي بشكل فوري.
